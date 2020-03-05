@@ -1,0 +1,67 @@
+
+div#header1 h1{
+	text-align: center;
+	color: blue;
+}
+div#header3 h3{
+	text-align: center;
+	font-size: 16px;
+	color: blue;
+}
+div.main h2{
+	text-align: center;
+	font-size:18px;
+	color: red;
+}
+
+div#content h3{
+	text-align: center;
+	font-size: 14px;
+	font-family: georgian;
+	color: blue;
+}
+div#content p{
+	text-align: center;
+}	
+tr.head th{
+	background-color: green;
+	
+}
+tr.even td{
+	background-color: yellow;
+	
+}
+th {
+	background-color: green;
+	color: white;
+	font-size:12px;
+}
+div#footer h3{
+		text-align: center;
+}
+div#footer li{
+	text-align:center;
+}
+
+div#header1 h1{
+	text-align: center;
+	color: red;
+}
+table {
+	width: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid black;
+}
+th,td {
+	border: 1px solid black;
+	padding:5px;
+}
+tfoot,tbody td{
+	text-align: center;
+	font-size: 12px;
+}
+
+
+
+
